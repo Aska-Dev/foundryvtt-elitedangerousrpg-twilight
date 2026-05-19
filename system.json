@@ -1,0 +1,20 @@
+{
+  "id": "edrpg-twilight",
+  "title": "Elite Dangerous RPG: Twilight",
+  "description": "Heavily modified and homebrewed Version of the Elite Dangerous RPG System",
+  "version": "0.1.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "Aska"
+    }
+  ],
+  "esmodules": [
+  "dist/ed-twilight.js"
+],
+  "styles": [],
+  "packs": []
+}
