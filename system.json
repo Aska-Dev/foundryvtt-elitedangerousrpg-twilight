@@ -13,8 +13,15 @@
     }
   ],
   "esmodules": [
-  "dist/ed-twilight.js"
-],
+    "dist/ed-twilight.js"
+  ],
   "styles": [],
-  "packs": []
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English"
+    }
+  ],
+  "url": "https://github.com/Aska-Dev/foundryvtt-elitedangerousrpg-twilight"
 }
